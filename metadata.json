@@ -1,0 +1,6 @@
+{
+  "name": "LexSA – South African Legal Research Assistant",
+  "description": "Professional South African Legal Research Assistant powered by SAFLII case law, court hierarchy analysis, and IRAC legal reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
